@@ -28,3 +28,10 @@ Constant studying and gaining new skills has been my main principle reflected bo
 - Ukrainian - Native
 - English - C1 Advanced level, IELTS 8.0 overall
 - Chinese - Intermediate
+
+## Code example
+Convert a Number to a String! We need a function that can transform a number (integer) into a string. What ways of achieving this do you know?
+
+<pre>function numberToString(num) {
+  return num.toString();
+}</pre>
