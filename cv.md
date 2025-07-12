@@ -32,6 +32,6 @@ Constant studying and gaining new skills has been my main principle reflected bo
 ## Code example
 Convert a Number to a String! We need a function that can transform a number (integer) into a string. What ways of achieving this do you know?
 
-<pre>function numberToString(num) {
+<pre><code>function numberToString(num) {
   return num.toString();
-}</pre>
+}</code></pre>
