@@ -1,3 +1,60 @@
 * {
   box-sizing: border-box;
+  font-family: 'Roboto Mono', monospace;
+  padding: 0;
+}
+
+body {
+  padding: 20px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+img{
+  display: block;
+}
+
+h1{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+h2{
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.footer{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.current-year{
+  font-size: 24px;
+}
+
+.header__left{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.photo{
+  align-items: center;
+  object-fit: cover;
+}
+
+.photo {
+  border-radius: 50%;
+}
+
+.nav_list {
+  list-style: none;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
 }
