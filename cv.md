@@ -34,3 +34,5 @@ Convert a Number to a String! We need a function that can transform a number (in
 <pre>function numberToString(num) {
   return num.toString();
 }</pre>
+
+## Projects
