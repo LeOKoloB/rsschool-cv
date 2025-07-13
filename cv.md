@@ -6,11 +6,9 @@
 - GitHub: [LeOKoloB](https://github.com/LeOKoloB)
 
 ## Brief story:
-Motivated student aspired to become a programmer one day. Starting with looking up my brother and continuing in high school, this passion only grew greater and greater. This was represented in various tasks done in classes and outdside, like working on hands-on projects, completing certification and so on.
+Motivated student aspired to become a programmer one day. Starting with looking up my brother and continuing in high school, this passion only grew greater and greater. Constant studying and gaining new skills has been my main principle.
 
-Being in 12th grade now, I am aiming to be accepted into a university for a Computer Science degree. I believe that with my current skills and with additional practice received I will be able to achieve all things that I want in my life. 
 
-Constantly studying and gaining new skills has been my main principle, reflected in both hands-on experience and theoretical learning. Talking to my CS teacher, watching YouTube courses, and reading books - everything plays a role in my life.
 
 ## Skills:
 - Git & GitHub
@@ -19,7 +17,13 @@ Constantly studying and gaining new skills has been my main principle, reflected
 - HTML5, CSS3
 
 ## Education
-- Kodaikanal International School, IB (International Baccalaureate)
+- IB (International Baccalaureate), Kodaikanal International School - 2024-2026
+- State budgetary general education institution Gymnasium No. 652 of Vyborgsky district of St. Petersburg - 2014-2024
+
+## Courses
+- FreeCodeCamp HTML and CSS course (in progress)
+- Harvard CS50 (in progress)
+
 
 ## Courses
 - Harvard CS50 (In Progress)
@@ -37,3 +41,5 @@ Convert a Number to a String! We need a function that can transform a number (in
 <pre>function numberToString(num) {
   return num.toString();
 }</pre>
+
+## Projects
