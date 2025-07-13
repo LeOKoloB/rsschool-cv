@@ -47,7 +47,7 @@ h2{
   font-size: 24px;
 }
 
-.header__left{
+.header-left{
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -60,7 +60,7 @@ h2{
   border-radius: 50%;
 }
 
-.nav_list {
+.nav-list {
   list-style: none;
   display: flex;
   gap: 10px;
@@ -68,7 +68,7 @@ h2{
   justify-content: center;
 }
 
-.nav_link {
+.nav-link {
   font-size: 20px;
   padding: 0 20px;
   line-height: 50px;
@@ -77,12 +77,12 @@ h2{
   text-decoration: none;
 }
 
-.nav_link:hover {
+.nav-link:hover {
   color: #333;
   text-decoration: underline;
 }
 
-.nav_link:visited {
+.nav-link:visited {
   color: #000;
 }
 
