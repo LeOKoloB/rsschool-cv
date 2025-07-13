@@ -8,6 +8,8 @@
 ## Brief story:
 Motivated student aspired to become a programmer one day. Starting with looking up my brother and continuing in high school, this passion only grew greater and greater. Constant studying and gaining new skills has been my main principle.
 
+
+
 ## Skills:
 - Git & GitHub
 - VS Code, Eclipse
@@ -22,6 +24,11 @@ Motivated student aspired to become a programmer one day. Starting with looking 
 - FreeCodeCamp HTML and CSS course (in progress)
 - Harvard CS50 (in progress)
 
+
+## Courses
+- Harvard CS50 (In Progress)
+- FreeCodeCamp - Responsive Web Design course (In Progress)
+  
 ## Languages
 - Russian - Native
 - Ukrainian - Native
