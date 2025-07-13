@@ -68,19 +68,27 @@ h2{
   justify-content: center;
 }
 
-.nav-link {
+.nav_link {
+  font-size: 20px;
   padding: 0 20px;
   line-height: 50px;
   transition: 0.3s;
+  color:#000;
   text-decoration: none;
 }
 
-.nav-link:hover {
-  color: #007bff;
+.nav_link:hover {
+  color: #333;
+  text-decoration: underline;
 }
 
-.nav-link:visited {
-  color: #dddddd;
+.nav_link:visited {
+  color: #000;
+}
+
+.nav-item {
+  font-size: 25px;
+  font-weight: 500;
 }
 
 .main {
